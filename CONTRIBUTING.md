@@ -4,7 +4,7 @@ Hi Stackies! In order for you to add your resolution please **Add yourself** to 
 
 This document lays out how to get you started in contributing, so please read carefully and throughly.
 
-If you have any concerns or the steps are unclear to you, please feel free to ask any questions you may have in the [discussions](https://github.com/AbbeyIT/Stackie-2023-resolution/discussions/1).
+If you have any concerns or if the steps are unclear to you, please feel free to ask any questions you may have in the [discussions](https://github.com/AbbeyIT/Stackie-2023-resolution/discussions/1).
 
 ---
 
